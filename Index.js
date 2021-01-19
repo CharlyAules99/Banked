@@ -14,3 +14,4 @@ app.use('/api/auth', require('./Routes/auth.js'));
 app.listen(process.env.PORT, ()=>{
  console.log(`Bancked corriendo en el puerto ${process.env.PORT}`);   
 })
+//prueba2
